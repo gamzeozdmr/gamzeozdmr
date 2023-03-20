@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gamzeozdmr
-- 👀 I’m interested in learning english and learning java.
+- 👀 I’m interested in learning english and learning C++
 - 🌱 I’m currently learning english
 - 💞️ I’m looking to collaborate on software
 - 📫 How to reach me gamzozdemr.81@gmail.com
